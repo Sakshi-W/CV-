@@ -1,0 +1,77 @@
+    <!DOCTYPE html>
+    <html>
+        <head>
+            <meta charset="utf-8"
+            <title> Angela you demo</title>
+
+        </head>
+        <body>
+            <table>
+                <tr>
+                    <td>img src="download.jpeg"alt="my profile pic"</td>
+                    <td><h1>Sakshi Waskar</h1>
+                        <p><em> An intern of data structures and <strong><a href="shorturl.at/qsDEN">web development</a></strong>.</em></p>
+                    </td> 
+                    
+                </tr>
+            </table>
+            <table> 
+                <h3>My skills</h3>
+                <table>
+                    <tr>
+                        <td> Web dev ❤️</td>
+                        <td> ⭐⭐</td>
+                    </tr>
+                    <tr>
+                        <td> Data Structures ❤️</td>
+                        <td> ⭐⭐⭐</td>
+                    </tr>
+                    <tr>
+                        <td> Music and cooking ❤️</td>
+                        <td> ⭐⭐⭐⭐</td>
+                    </tr>
+                </table>
+            </table>
+            
+            
+            <p> i am still learning  no rush going slow</p>
+            <hr widhth="20px">
+            
+            <h3> Movies i love</h3>
+            <ul> 
+                <li> 3 idiots</li>
+                <li> the notebook</li>
+                <li> pride and prejudice</li>
+            </ul>
+
+            <hr width="'20px">
+
+
+            <a href="songs i cry on.html">Songs to cry on</a>
+            <h3> My mental problems</h3>
+            <table cellspacing="20">
+                <thead>
+                    <tr>
+                        <th>Dates</th>
+                        <th>Work</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                    <td>2015-17</td>
+                    <td>I recognized i had anxiety problems</td>
+                    </tr>
+                    <tr>
+                    <td>2017-20</td>
+                    <td>My overthinking struck new levels</td>
+                    </tr>
+                </tbody>
+                <tfoot>
+                    <tr>
+                        <td>2020 i'll work on everything and sort things out</td>
+                    </tr>
+                </tfoot>
+            
+
+        </body>
+    </html>
